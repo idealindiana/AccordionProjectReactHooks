@@ -1,2 +1,2 @@
-# AccordionProjectReactHooks
+# counter-hooks
 Created with CodeSandbox
